@@ -16,5 +16,11 @@ public class Ulesanne03 {
                             "\nElementide summa massiivis: " + kokku +
                             "\nArvude aritmeetilise keskmise: " + massiviKesk);
 
+        int[][] massiiv2d = {{1,23},{2,15},{3,29},{4,15},{5,26},{6,17},{7,26},{8,15},{9,28},{10,12},{11,24},{12,16},{13,21},{14,10},{15,10},{16,26},{17,27},{18,19},{19,14},{20,14},{21,14},{22,26},{23,20},{24,28},{25,29},{26,11},{27,28},{28,19},{29,25},{30,12}};
+
+        for (int i = 0;i < massiiv2d.length; i++) {
+                System.out.println(massiiv2d[i][1]);
+            }
+        }
+
     }
-}
