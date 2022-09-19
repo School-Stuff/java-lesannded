@@ -5,7 +5,7 @@ public class Karl_Jugapuu {
         String nimi = "Karl Jugapuu", kursus = "IT-21", hüüdnimi = "Puudub";
         int vanus = 21;
         double pikkus = 1.94;
-        int minuArv;
+        //int minuArv;
 
         // Print
         System.out.println(nimi + " - " + kursus);
